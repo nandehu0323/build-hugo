@@ -1,9 +1,9 @@
-name: 'Build Hugo'
-author: 'Sho Mizutani <lowply@github.com>'
-description: 'Run the hugo command to build a website'
+name: "Build Hugo"
+author: "Hiroki Nanjo <CoralGift.N.H@uec.ac.jp>"
+description: "Run the hugo command to build a website"
 runs:
-  using: 'docker'
-  image: 'Dockerfile'
+  using: "docker"
+  image: "Dockerfile"
 branding:
-  icon: 'code'
-  color: 'purple'
+  icon: "code"
+  color: "purple"
